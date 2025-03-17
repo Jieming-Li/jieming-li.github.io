@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Fargo</p>
+    <p>Fargo, ND</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,9 +25,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<!-- ### About Me
+<br>
 
-I'm an incoming PhD student at the [Department of Computer Science](https://csds.gsu.edu/), [Georgia State University (GSU)](https://www.gsu.edu/). I will work with [Prof. Zhipeng Cai](https://cai.csgsu.org/) and [Prof. Yili Jiang](https://canlabgo.github.io/). I completed my undergrad from [University of Minnesota (UMN)](https://twin-cities.umn.edu/) majoring in Computer Science with a minor in Math. -->
+### About Me
+
+I'm an incoming PhD student at the [Department of Computer Science](https://csds.gsu.edu/), [Georgia State University (GSU)](https://www.gsu.edu/). I will work with [Prof. Zhipeng Cai](https://cai.csgsu.org/) and [Prof. Yili Jiang](https://canlabgo.github.io/). I completed my undergrad from [University of Minnesota (UMN)](https://twin-cities.umn.edu/) majoring in Computer Science with a minor in Math.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
