@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: In coming PhD student, <a href='https://inspire.gsu.edu/'>INSPIRE lab</a>, <a href='https://www.gsu.edu/'>Georgia State University</a>.
+subtitle: "In coming PhD student, <a href='https://inspire.gsu.edu/'>INSPIRE lab</a>, <a href='https://www.gsu.edu/'>Georgia State University</a>."
 
 
 profile:
