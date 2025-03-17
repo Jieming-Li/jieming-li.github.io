@@ -25,9 +25,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<br>
+<!-- <br>
 
-### About Me
+### About Me -->
 
 I'm an incoming PhD student at the [Department of Computer Science](https://csds.gsu.edu/), [Georgia State University (GSU)](https://www.gsu.edu/). I will work with [Prof. Zhipeng Cai](https://cai.csgsu.org/) and [Prof. Yili Jiang](https://canlabgo.github.io/). I completed my undergrad from [University of Minnesota (UMN)](https://twin-cities.umn.edu/) majoring in Computer Science with a minor in Math.
 
