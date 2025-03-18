@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I'm not done making this website. Sorry about that! :sweat_smile:
+
+<!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->

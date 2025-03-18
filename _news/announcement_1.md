@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-3-6 1:51:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am offered a fully funded PhD position in Computer Science at Gergia State University.
