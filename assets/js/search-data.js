@@ -429,16 +429,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-m-not-done-making-this-website-sorry-about-that-sweat-smile",
+          title: 'I’m not done making this website. Sorry about that! :sweat_smile:',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-am-offered-a-fully-funded-phd-position-in-computer-science-at-gergia-state-university",
+          title: 'I am offered a fully funded PhD position in Computer Science at Gergia...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
