@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: post
 title: a post with custom blockquotes
 date: 2023-05-12 15:53:00-0400
@@ -7,7 +7,7 @@ tags: formatting blockquotes
 categories: sample-posts
 giscus_comments: true
 related_posts: true
---- -->
+---
 
 This post shows how to add custom styles for blockquotes. Based on [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) implementation.
 
@@ -128,4 +128,4 @@ These custom styles can be used by adding the specific class to the blockquote, 
 > be used carefully
 {: .block-danger }
 
-<!-- prettier-ignore-end -->
+prettier-ignore-end
