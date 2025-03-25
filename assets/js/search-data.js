@@ -188,11 +188,11 @@ ninja.data = [{
           window.location.href = "/blog/2023/jupyter-notebook/";
         
       },
-    },{id: "post-custom-blockquotes",
+    },{id: "post-a-post-with-custom-blockquotes",
       
-        title: "Custom Blockquotes",
+        title: "a post with custom blockquotes",
       
-      description: "",
+      description: "an example of a blog post with custom blockquotes",
       section: "Posts",
       handler: () => {
         
@@ -221,22 +221,22 @@ ninja.data = [{
           window.location.href = "/blog/2023/audios/";
         
       },
-    },{id: "post-videos",
+    },{id: "post-a-post-with-videos",
       
-        title: "Videos",
+        title: "a post with videos",
       
-      description: "",
+      description: "this is what included videos could look like",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2023/videos/";
         
       },
-    },{id: "post-tables",
+    },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
       
-        title: "Tables",
+        title: "displaying beautiful tables with Bootstrap Tables",
       
-      description: "",
+      description: "an example of how to use Bootstrap Tables",
       section: "Posts",
       handler: () => {
         
@@ -287,15 +287,26 @@ ninja.data = [{
           window.location.href = "/blog/2022/redirect/";
         
       },
-    },{id: "post-diagrams",
+    },{id: "post-a-post-with-diagrams",
       
-        title: "Diagrams",
+        title: "a post with diagrams",
       
-      description: "",
+      description: "an example of a blog post with diagrams",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2021/diagrams/";
+        
+      },
+    },{id: "post-a-distill-style-blog-post",
+      
+        title: "a distill-style blog post",
+      
+      description: "an example of a distill-style blog post and main elements",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2021/distill/";
         
       },
     },{id: "post-twitter",
@@ -307,17 +318,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2020/twitter/";
-        
-      },
-    },{id: "post-distill",
-      
-        title: "Distill",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2018/distill/";
         
       },
     },{id: "post-math",
