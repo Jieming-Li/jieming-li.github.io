@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: Incoming PhD student, <a href='https://inspire.gsu.edu/'>INSPIRE lab</a>, <a href='https://www.gsu.edu/'>Georgia State University</a>.
 
-
 profile:
   align: right
   image: prof_pic.jpg
