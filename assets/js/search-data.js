@@ -23,62 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-photo-gallery",
-      
-        title: "Photo Gallery",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/photo-gallery/";
-        
-      },
-    },{id: "post-tabs",
-      
-        title: "Tabs",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/tabs/";
-        
-      },
-    },{id: "post-typograms",
-      
-        title: "Typograms",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/typograms/";
-        
-      },
-    },{id: "post-post-citation",
-      
-        title: "Post Citation",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/post-citation/";
-        
-      },
-    },{id: "post-pseudocode",
-      
-        title: "Pseudocode",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/pseudocode/";
-        
-      },
-    },{id: "post-vega-lite",
+        },{id: "post-vega-lite",
       
         title: "Vega Lite",
       
