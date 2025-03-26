@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "post-know-them-flowers",
       
-        title: "Know them flowers",
+        title: "Know Them Flowers",
       
       description: "a simple collection",
       section: "Posts",
