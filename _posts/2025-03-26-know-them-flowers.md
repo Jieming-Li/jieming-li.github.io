@@ -15,13 +15,16 @@ categories: Trivia
 
 <hr>
 
-### Tulip
+### [Tulip（郁金香）](https://en.wikipedia.org/wiki/Tulip)
 
-Tulips worth more than gold during the 17th century in the Netherlands. This period of time is called Tulip Mania. It was the first recorded economic bubbles. Tulips come in almost every color imaginable and have been cultivated into more than 3,000 varieties, with new hybrids being created all the time.
+Did you know that tulips worth more than gold during the 17th century in the Netherlands? This period of time is called Tulip Mania. It was the first recorded economic bubbles. Tulips come in almost every color imaginable and have been cultivated into more than 3,000 varieties, with new hybrids being created all the time.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/flowers/tulips.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/flowers/tulip1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/flowers/tulip2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
