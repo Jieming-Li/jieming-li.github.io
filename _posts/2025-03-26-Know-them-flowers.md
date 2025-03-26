@@ -3,18 +3,20 @@ layout: post
 title: Know them flowers
 date: 2025-03-26 17:30:00
 description: a collection
-tags: Nature
-categories: trivia
+tags: nature
+categories: Trivia
 ---
 
 #### Introduction
 
 #### list
+
 - Tulip
 
 <hr>
 
-### [Tulip](https://en.wikipedia.org/wiki/Tulip)
+### Tulip
+
 Tulips worth more than gold during the 17th century in the Netherlands. This period of time is called Tulip Mania. It was the first recorded economic bubbles. Tulips come in almost every color imaginable and have been cultivated into more than 3,000 varieties, with new hybrids being created all the time.
 
 <div class="row mt-3">
@@ -22,10 +24,6 @@ Tulips worth more than gold during the 17th century in the Netherlands. This per
         {% include figure.liquid path="assets/img/flowers/tulips.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-
-
-
 
 <!-- Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
