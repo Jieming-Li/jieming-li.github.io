@@ -51,6 +51,8 @@ Floriography: purity, love, passion, joy, and prosperity
     </div>
 </div>
 
+<hr>
+
 ### [Cherry Blossom](https://en.wikipedia.org/wiki/Cherry_blossom)
 
 In Japan, cherry blossoms are often associated with the ephemeral nature of life. Their short-lived beauty, which lasts only a few weeks, symbolizes the fleeting nature of existence, reminding people to appreciate the present moment. In addition, as cherry blossoms bloom in the spring, they symbolize new beginnings, renewal, and hope.(樱花)
