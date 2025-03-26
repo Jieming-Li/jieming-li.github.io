@@ -9,11 +9,13 @@ categories: Trivia
 
 #### Introduction
 
-Flowers have a unique way of bringing joy into our lives. Their vibrant colors, delicate petals, and sweet fragrances create a sense of peace and happiness. Whether it's a single bloom on a windowsill or a vast field of wildflowers, they remind us of nature’s beauty and the simple pleasures in life. Flowers also hold deep meanings in different cultures, symbolizing love, friendship, and renewal. Learning more about them helps us appreciate their diversity, from the tiniest blossoms to the most exotic species. So, let’s explore their names, meanings, and stories, and bring a little more beauty into our world!
+Flowers have a unique way of bringing joy into our lives. Their vibrant colors, delicate petals, and sweet fragrances create a sense of peace and happiness. Whether it's a single bloom on a windowsill or a vast field of wildflowers, they remind us of nature’s beauty and the simple pleasures in life. Flowers also hold deep meanings, symbolizing love, friendship, and renewal. So, let’s explore their names, meanings, and stories, and bring a little more beauty into our world.
 
 #### List
 
 - Tulip
+- Lily
+- Cherry Blossom
 
 <hr>
 
@@ -46,6 +48,21 @@ Floriography: purity, love, passion, joy, and prosperity
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/flowers/lily2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+### [Cherry Blossom](https://en.wikipedia.org/wiki/Cherry_blossom)
+
+In Japan, cherry blossoms are often associated with the ephemeral nature of life. Their short-lived beauty, which lasts only a few weeks, symbolizes the fleeting nature of existence, reminding people to appreciate the present moment. In addition, as cherry blossoms bloom in the spring, they symbolize new beginnings, renewal, and hope.(樱花)
+
+Floriography: live in the moment and embrace the cyclical nature of life
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/flowers/cherry_blossom1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/flowers/cherry_blossom2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
