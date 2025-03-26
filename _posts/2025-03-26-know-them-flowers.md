@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Know them flowers
+title: Know Them Flowers
 date: 2025-03-25 17:30:00
 description: a simple collection
 tags: nature
@@ -9,7 +9,9 @@ categories: Trivia
 
 #### Introduction
 
-#### list
+There was a time when I was walking with a friend, and she pointed out the flowers along the street. In that moment I thought, Man, I wish I knew more about these. So here it is, a collection of flowers with pictures. I’ve also included their Chinese names because I need to know that too.
+
+#### List
 
 - Tulip
 
@@ -17,7 +19,8 @@ categories: Trivia
 
 ### [Tulip（郁金香）](https://en.wikipedia.org/wiki/Tulip)
 
-Did you know that tulips worth more than gold during the 17th century in the Netherlands? This period of time is called Tulip Mania. It was the first recorded economic bubbles. Tulips come in almost every color imaginable and have been cultivated into more than 3,000 varieties, with new hybrids being created all the time.
+Did you know that tulips were once worth more than gold during the 17th century in the Netherlands? This period, known as Tulip Mania, was one of the first recorded economic bubbles. Tulips come in almost every color imaginable and have been cultivated into more than 3,000 varieties, with new hybrids constantly being created.
+Floriography: perfect love, elegance, and grace
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
