@@ -9,7 +9,7 @@ categories: Trivia
 
 #### Introduction
 
-There was a time when I was walking with a friend, and she pointed out the flowers along the street. In that moment I thought, Man, I wish I knew more about these. So here it is, a collection of flowers with pictures. I’ve also included their Chinese names because I need to know that too.
+Flowers have a unique way of bringing joy into our lives. Their vibrant colors, delicate petals, and sweet fragrances create a sense of peace and happiness. Whether it's a single bloom on a windowsill or a vast field of wildflowers, they remind us of nature’s beauty and the simple pleasures in life. Flowers also hold deep meanings in different cultures, symbolizing love, friendship, and renewal. Learning more about them helps us appreciate their diversity, from the tiniest blossoms to the most exotic species. So, let’s explore their names, meanings, and stories, and bring a little more beauty into our world!
 
 #### List
 
@@ -17,9 +17,10 @@ There was a time when I was walking with a friend, and she pointed out the flowe
 
 <hr>
 
-### [Tulip（郁金香）](https://en.wikipedia.org/wiki/Tulip)
+### [Tulip](https://en.wikipedia.org/wiki/Tulip)
 
-Did you know that tulips were once worth more than gold during the 17th century in the Netherlands? This period, known as Tulip Mania, was one of the first recorded economic bubbles. Tulips come in almost every color imaginable and have been cultivated into more than 3,000 varieties, with new hybrids constantly being created.
+Did you know that tulips were once worth more than gold during the 17th century in the Netherlands? This period, known as Tulip Mania, was one of the first recorded economic bubbles. Tulips come in almost every color imaginable and have been cultivated into more than 3,000 varieties, with new hybrids constantly being created.（郁金香）
+
 Floriography: perfect love, elegance, and grace
 
 <div class="row mt-3">
@@ -28,6 +29,23 @@ Floriography: perfect love, elegance, and grace
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/flowers/tulip2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<hr>
+
+### [Lily](https://en.wikipedia.org/wiki/Lilium)
+
+Lilies often represent purity, renewal, and devotion, making them popular in weddings and religious ceremonies. While beautiful, lilies are highly toxic to cats. In Greek mythology, lilies were said to have sprung from the milk of Hera, the queen of the gods.(百合花)
+
+Floriography: purity, love, passion, joy, and prosperity
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/flowers/lily1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/flowers/lily2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
