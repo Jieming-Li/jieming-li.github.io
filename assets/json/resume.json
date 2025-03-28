@@ -6,16 +6,20 @@
     "school email": "jli93@student.gsu.edu",
     "phone": "(952) 270-4731",
     "location": "Atlanta, GA 30302",
-    "profile": [
+    "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X",
+        "url": "https://x.com/lijieming_work"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/Jieming-Li"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/jieming-li-jimmy/"
       }
-    ],
-    "Github": {"url": "https://github.com/Jieming-Li"},
-    "X": "https://x.com/lijieming_work",
-    "LinkedIn": "https://www.linkedin.com/in/jieming-li-jimmy/"
+    ]
   },
   "work": [
     {
