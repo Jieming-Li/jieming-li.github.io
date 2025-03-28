@@ -6,7 +6,14 @@
     "school email": "jli93@student.gsu.edu",
     "phone": "(952) 270-4731",
     "location": "Atlanta, GA 30302",
-    "Github": "https://github.com/Jieming-Li",
+    "profile": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ],
+    "Github": {"url": "https://github.com/Jieming-Li"},
     "X": "https://x.com/lijieming_work",
     "LinkedIn": "https://www.linkedin.com/in/jieming-li-jimmy/"
   },
