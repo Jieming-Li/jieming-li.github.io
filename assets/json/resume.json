@@ -1,26 +1,14 @@
 {
   "basics": {
     "name": "Jieming Li",
-    "label": "PhD Student",
-    "image": "assets/img/cv.jpg",
-    "email": "jimmyli7099@gmail.com",
+    "label": "Computer Science PhD Student",
+    "email": "jimmyli7099@gmail.com jli93@student.gsu.edu",
+    "school email": "jli93@student.gsu.edu",
     "phone": "(952) 270-4731",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "location": "Atlanta, GA 30302",
+    "Github": "https://github.com/Jieming-Li",
+    "X": "https://x.com/lijieming_work",
+    "LinkedIn": "https://www.linkedin.com/in/jieming-li-jimmy/"
   },
   "work": [
     {
