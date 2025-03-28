@@ -1,5 +1,5 @@
 <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
-  {% assign skip_basics = 'image' | split: ',' %}
+  {% assign skip_basics = 'image, profiles' | split: ',' %}
   {% for content in data[1] %}
     {%
       if (content[1] == "") or (skip_basics contains
@@ -17,14 +17,10 @@
           <a href="{{ content[1] }}" target="_blank" rel="noopener noreferrer">{{ content[1] }}</a>
         {% elsif content[0] == 'email' %}
           <a href="mailto:{{ content[1] }}" target="_blank">{{ content[1] }}</a>
+        {% elsif content[0] == 'GSU' %}
+          <a href="mailto:{{ content[1] }}" target="_blank">{{ content[1] }}</a>
         {% elsif content[0] == 'phone' %}
           <a href="tel:{{ content[1] }}">{{ content[1] }}</a>
-        {% elsif content[0] == 'profiles' %}
-          {% for profile in content[1] %}
-            <b>{{ profile.network }}</b>: 
-            <a href="{{ profile.url }}" target="_blank" rel="noopener noreferrer">{{ profile.url }}</a>
-            {% if not loop.last %}<br>{% endif %}
-          {% endfor %}
         {% else %}
           {{ content[1] }}
         {% endif %}
@@ -32,3 +28,16 @@
     </tr>
   {% endfor %}
 </table>
+
+<!-- Profile Table -->
+{% if data[1].profiles and data[1].profiles != "" %}
+<h3>Profiles</h3>
+<table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
+  {% for profile in data[1].profiles %}
+  <tr>
+    <td><b>{{ profile.network }}</b></td>
+    <td><a href="{{ profile.url }}" target="_blank" rel="noopener noreferrer">{{ profile.url }}</a></td>
+  </tr>
+  {% endfor %}
+</table>
+{% endif %}
