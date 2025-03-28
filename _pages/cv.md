@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv (short)
+title: CV (short)
 nav: true
 nav_order: 5
 cv_pdf: Resume_Jieming-Li.pdf # you can also use external links here
-description: PDF to the right for complete CV
+description: For the complete CV, refer to the PDF on the right.
 toc:
   sidebar: left
 ---
