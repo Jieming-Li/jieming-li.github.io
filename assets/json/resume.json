@@ -23,25 +23,38 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of Minnesota",
+      "position": "Research Assistant",
+      "startDate": "2024-06-01",
+      "endDate": "2024-11-15",
+      "summary": "Worked with Open5GS and srsRAN to intercept and analyze network messages between gNodeB, UE, and network functions. Analyzed function call flows for message processing in 5G network simulations.",
+      "highlights": ["5G"]
+    },
+    {
+      "name": "Department of Computer Science & Engineering, University of Minnesota",
+      "position": "Teaching Assistant",
+      "startDate": "2024-01-20",
+      "endDate": "2024-12-15",
+      "summary": "Tutored students on computer systems and programming in C and assembly. Collaborated with faculty to evaluate coursework and provide feedback. Course: CSCI2021-Machine Architecture and Organization.",
+      "highlights": ["Machine Architecture and Organization","C"]
+    },
+    {
+      "name": "TRIO Upward Bound, University of Minnesota",
+      "position": "Teaching Assistant",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-10",
+      "summary": "Tutored high school students in mathematics. Organized and led extracurricular activities including a week-long camping trip.",
+      "highlights": ["Tutor", "Leadership"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Meals on Wheels",
+      "location": "Fargo, ND, USA",
+      "position": "Meal Deliveryman",
+      "startDate": "2022-12-20",
+      "endDate": "2023-01-25",
+      "summary": "Deliver meal to old people in need."
     }
   ],
   "education": [
@@ -66,17 +79,24 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming Languages",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["C, C++, Python, Java, OCaml, MATLAB, R, shell"]
+    },
+    {
+      "name": "Web development",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["HTML, CSS, JavaScript, Express.js, Pug, SQL"]
+    },
+    {
+      "name": "Tools",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Git, Jira, Wireshark, GDB, pthread, OpenMP, MPI"]
+    },
+    {
+      "name": "Concepts",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Algorithms and Data Structures, Parallel Programming, Software Development, Object-Oriented Programming"]
     }
   ],
   "languages": [

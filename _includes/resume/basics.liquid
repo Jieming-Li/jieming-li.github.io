@@ -17,7 +17,7 @@
           <a href="{{ content[1] }}" target="_blank" rel="noopener noreferrer">{{ content[1] }}</a>
         {% elsif content[0] == 'email' %}
           <a href="mailto:{{ content[1] }}" target="_blank">{{ content[1] }}</a>
-        {% elsif content[0] == 'GSU' %}
+        {% elsif content[0] == 'school' %}
           <a href="mailto:{{ content[1] }}" target="_blank">{{ content[1] }}</a>
         {% elsif content[0] == 'phone' %}
           <a href="tel:{{ content[1] }}">{{ content[1] }}</a>
@@ -31,7 +31,7 @@
 
 <!-- Profile Table -->
 {% if data[1].profiles and data[1].profiles != '' %}
-  <h3 class="p-1 pr-2 font-weight-bold">Profiles</h3>
+  <h6>Profiles</h6>
   <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
     {% for profile in data[1].profiles %}
       <tr>
