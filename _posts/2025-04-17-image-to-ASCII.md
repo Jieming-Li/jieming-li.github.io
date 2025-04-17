@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Image to ASCII
-date: 2025-04-17 17:30:00
-description: a fun little project with demo
+date: 2025-04-17
+description: A fun little project with demo
 tags: LLM
 categories: Computer Science
 ---
