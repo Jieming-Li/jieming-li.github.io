@@ -4,7 +4,7 @@ title: Image to ASCII
 date: 2025-04-17
 description: A fun little project with demo
 tags: LLM
-categories: Computer Science
+categories: Computer_Science
 ---
 
 OpenAI just announced o3 and o4-mini today! During the livestream, the team used Codex and o4-mini to build a really cool image-to-ASCII converter. They even hooked it up to a webcam API, and the results were pretty impressive.
@@ -15,4 +15,6 @@ OpenAI just announced o3 and o4-mini today! During the livestream, the team used
     </div>
 </div>
 
-I don’t have access to the cool new ChatGPT models, but I’ve still got my good old versions. And with a little human help on the debugging side, ChatGPT actually managed to pull off the [image-to-ASCII](https://jieming-li.github.io/Image-to-ASCII/) conversion just fine.
+I don’t have access to the cool new ChatGPT models, but I’ve still got my good old versions. And with a little human help on the debugging side, ChatGPT actually managed to pull it off just fine.
+
+### [image-to-ASCII](https://jieming-li.github.io/Image-to-ASCII/)
