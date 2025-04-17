@@ -27,7 +27,9 @@ latest_posts:
 
 ### About Me
 
-I'm an incoming PhD student at the [Department of Computer Science](https://csds.gsu.edu/), [Georgia State University](https://www.gsu.edu/). I will work with [Prof. Zhipeng Cai](https://cai.csgsu.org/) and [Prof. Yili Jiang](https://canlabgo.github.io/). I earned my Bachelor of Science in Computer Science with a minor in Mathematics from the [University of Minnesota - Twin Cities](https://twin-cities.umn.edu/) in 2024.
+I'm an incoming PhD student at the [Department of Computer Science](https://csds.gsu.edu/), [Georgia State University](https://www.gsu.edu/). I will work with [Prof. Yili Jiang](https://canlabgo.github.io/). I earned my Bachelor of Science in Computer Science with a minor in Mathematics from the [University of Minnesota - Twin Cities](https://twin-cities.umn.edu/) in 2024.
+
+<!-- [Prof. Zhipeng Cai](https://cai.csgsu.org/) and  -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
