@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-know-them-flowers",
+        },{id: "post-image-to-ascii",
+      
+        title: "Image to ASCII",
+      
+      description: "A fun little project with demo",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/image-to-ASCII/";
+        
+      },
+    },{id: "post-know-them-flowers",
       
         title: "Know Them Flowers",
       
@@ -32,6 +43,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/know-them-flowers/";
+        
+      },
+    },{id: "post-a-post-with-formatting-and-links",
+      
+        title: "a post with formatting and links",
+      
+      description: "march &amp; april, looking forward to summer",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2015/formatting-and-links/";
         
       },
     },{id: "news-i-graduated-college-one-semester-early-rocket",
