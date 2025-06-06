@@ -45,11 +45,14 @@ ninja.data = [{
           window.location.href = "/blog/2025/know-them-flowers/";
         
       },
-    },{id: "news-i-graduated-college-one-semester-early-rocket",
-          title: 'I graduated college one semester early :rocket:',
+    },{id: "news-graduate-college-with-high-distinction-one-semester-early-rocket",
+          title: 'Graduate college with high distinction one semester early :rocket:',
           description: "",
-          section: "News",},{id: "news-i-am-offered-a-fully-funded-phd-position-in-computer-science-at-gergia-state-university",
-          title: 'I am offered a fully funded PhD position in Computer Science at Gergia...',
+          section: "News",},{id: "news-fully-funded-phd-position-in-computer-science-at-gsu",
+          title: 'Fully funded PhD position in Computer Science at GSU.',
+          description: "",
+          section: "News",},{id: "news-begin-my-work-as-a-research-intern-at-pci-tech-china",
+          title: 'Begin my work as a research intern at PCI tech, China.',
           description: "",
           section: "News",},{
         id: 'social-email',
