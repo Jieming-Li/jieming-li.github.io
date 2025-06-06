@@ -45,8 +45,8 @@ ninja.data = [{
           window.location.href = "/blog/2025/know-them-flowers/";
         
       },
-    },{id: "news-graduate-college-with-high-distinction-one-semester-early-rocket",
-          title: 'Graduate college with high distinction one semester early :rocket:',
+    },{id: "news-graduate-college-with-high-distinction-amp-amp-one-semester-early-rocket",
+          title: 'Graduate college with high distinction &amp;amp;amp; one semester early :rocket:',
           description: "",
           section: "News",},{id: "news-fully-funded-phd-position-in-computer-science-at-gsu",
           title: 'Fully funded PhD position in Computer Science at GSU.',
