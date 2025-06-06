@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am offered a fully funded PhD position in Computer Science at Gergia State University.
+Fully funded PhD position in Computer Science at GSU.
