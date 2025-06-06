@@ -45,14 +45,14 @@ ninja.data = [{
           window.location.href = "/blog/2025/know-them-flowers/";
         
       },
-    },{id: "news-graduate-college-with-high-distinction-amp-amp-one-semester-early-rocket",
-          title: 'Graduate college with high distinction &amp;amp;amp; one semester early :rocket:',
+    },{id: "news-graduated-with-high-distinction-and-one-semester-early-rocket",
+          title: 'Graduated with high distinction and one semester early :rocket:',
           description: "",
-          section: "News",},{id: "news-fully-funded-phd-position-in-computer-science-at-gsu",
-          title: 'Fully funded PhD position in Computer Science at GSU.',
+          section: "News",},{id: "news-offered-a-fully-funded-phd-position-in-computer-science-at-gsu",
+          title: 'Offered a fully funded PhD position in Computer Science at GSU.',
           description: "",
-          section: "News",},{id: "news-begin-my-work-as-a-research-intern-at-pci-tech-china",
-          title: 'Begin my work as a research intern at PCI tech, China.',
+          section: "News",},{id: "news-began-work-as-a-research-intern-at-pci-tech-in-china",
+          title: 'Began work as a research intern at PCI Tech in China.',
           description: "",
           section: "News",},{
         id: 'social-email',
