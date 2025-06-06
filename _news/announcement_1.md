@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Fully funded PhD position in Computer Science at GSU.
+Offered a fully funded PhD position in Computer Science at GSU.

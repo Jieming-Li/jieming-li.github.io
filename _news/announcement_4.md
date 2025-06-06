@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Begin my work as a research intern at PCI tech, China.
+Began work as a research intern at PCI Tech in China.
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->

@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Graduate college with high distinction & one semester early :rocket:
+Graduated with high distinction and one semester early :rocket:
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
