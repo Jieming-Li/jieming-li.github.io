@@ -9,7 +9,8 @@ categories: Trivia
 
 #### Introduction
 
-Flowers have a unique way of bringing joy into our lives. Their vibrant colors, delicate petals, and sweet fragrances create a sense of peace and happiness. Whether it's a single bloom on a windowsill or a vast field of wildflowers, they remind us of nature’s beauty and the simple pleasures in life. Flowers also hold deep meanings, symbolizing love, friendship, and renewal. So, let’s explore their names, meanings, and stories, and bring a little more beauty into our world.
+There have been so many times when I was walking with friends and they pointed out flowers along the street—and I found myself wishing I knew more about them. Who doesn’t appreciate beautiful things? Flowers, in particular, have a special way of bringing joy into our lives. Their vibrant colors, delicate petals, and gentle fragrances create a sense of peace and happiness. They remind us to slow down and appreciate the simple pleasures of nature.
+Beyond their beauty, flowers carry deep meanings—symbolizing love, friendship, renewal, and more. That’s why I’ve started collecting their names, photos, meanings, and stories. It’s my way of learning, appreciating, and hopefully bringing a little more beauty into the world.
 
 #### List
 
@@ -19,9 +20,9 @@ Flowers have a unique way of bringing joy into our lives. Their vibrant colors, 
 
 <hr>
 
-### [Tulip](https://en.wikipedia.org/wiki/Tulip)
+### [Tulip 郁金香](https://en.wikipedia.org/wiki/Tulip)
 
-Did you know that tulips were once worth more than gold during the 17th century in the Netherlands? This period, known as Tulip Mania, was one of the first recorded economic bubbles. Tulips come in almost every color imaginable and have been cultivated into more than 3,000 varieties, with new hybrids constantly being created.（郁金香）
+Did you know that tulips were once worth more than gold during the 17th century in the Netherlands? This period, known as Tulip Mania, was one of the first recorded economic bubbles. Tulips come in almost every color imaginable and have been cultivated into more than 3,000 varieties, with new hybrids constantly being created.
 
 Floriography: perfect love, elegance, and grace
 
@@ -36,9 +37,9 @@ Floriography: perfect love, elegance, and grace
 
 <hr>
 
-### [Lily](https://en.wikipedia.org/wiki/Lilium)
+### [Lily 百合花](https://en.wikipedia.org/wiki/Lilium)
 
-Lilies often represent purity, renewal, and devotion, making them popular in weddings and religious ceremonies. While beautiful, lilies are highly toxic to cats. In Greek mythology, lilies were said to have sprung from the milk of Hera, the queen of the gods.(百合花)
+Lilies often represent purity, renewal, and devotion, making them popular in weddings and religious ceremonies. While beautiful, lilies are highly toxic to cats. In Greek mythology, lilies were said to have sprung from the milk of Hera, the queen of the gods.
 
 Floriography: purity, love, passion, joy, and prosperity
 
@@ -53,9 +54,9 @@ Floriography: purity, love, passion, joy, and prosperity
 
 <hr>
 
-### [Cherry Blossom](https://en.wikipedia.org/wiki/Cherry_blossom)
+### [Cherry Blossom 樱花](https://en.wikipedia.org/wiki/Cherry_blossom)
 
-In Japan, cherry blossoms are often associated with the ephemeral nature of life. Their short-lived beauty, which lasts only a few weeks, symbolizes the fleeting nature of existence, reminding people to appreciate the present moment. In addition, as cherry blossoms bloom in the spring, they symbolize new beginnings, renewal, and hope.(樱花)
+In Japan, cherry blossoms are often associated with the ephemeral nature of life. Their short-lived beauty, which lasts only a few weeks, symbolizes the fleeting nature of existence, reminding people to appreciate the present moment. In addition, as cherry blossoms bloom in the spring, they symbolize new beginnings, renewal, and hope.
 
 Floriography: live in the moment and embrace the cyclical nature of life
 
@@ -65,6 +66,21 @@ Floriography: live in the moment and embrace the cyclical nature of life
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/flowers/cherry_blossom2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+### [Iris 鸢尾花](<https://en.wikipedia.org/wiki/Iris_(plant)>)
+
+The iris is a striking and elegant flower, celebrated for its rich colors and graceful form. Named after the Greek goddess Iris, who was said to link heaven and earth with her rainbow-colored robes, the flower has long symbolized hope, wisdom, and communication. With its delicate, fan-like petals and a wide spectrum of colors—from deep purples and blues to whites, yellows, and pinks—the iris brings a sense of serenity and sophistication to any garden. It holds special cultural significance as well: the iris is the national flower of France, where the stylized version known as the fleur-de-lis has symbolized French royalty and heritage for centuries.
+
+Floriography: royalty, hope, wisdom, and communication
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/flowers/iris1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/flowers/iris2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
