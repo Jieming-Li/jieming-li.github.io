@@ -9,7 +9,7 @@ categories: Trivia
 
 #### Introduction
 
-There have been so many times when I was walking with friends and they pointed out flowers along the street—and I found myself wishing I knew more about them. Who doesn’t appreciate beautiful things? Flowers, in particular, have a special way of bringing joy into our lives. Their vibrant colors, delicate petals, and gentle fragrances create a sense of peace and happiness. They remind us to slow down and appreciate the simple pleasures of nature.
+There have been so many times when I was walking with friends and they pointed out flowers along the street—and I found myself wishing I knew more about them. Who doesn’t appreciate beautiful things? Flowers, in particular, have a special way of bringing joy into our lives. Their vibrant colors, delicate petals, and gentle fragrances create a sense of peace and happiness. They remind us to slow down and appreciate the simple pleasures of nature.<br>
 Beyond their beauty, flowers carry deep meanings—symbolizing love, friendship, renewal, and more. That’s why I’ve started collecting their names, photos, meanings, and stories. It’s my way of learning, appreciating, and hopefully bringing a little more beauty into the world.
 
 #### List
@@ -17,6 +17,7 @@ Beyond their beauty, flowers carry deep meanings—symbolizing love, friendship,
 - Tulip
 - Lily
 - Cherry Blossom
+- Iris
 
 <hr>
 

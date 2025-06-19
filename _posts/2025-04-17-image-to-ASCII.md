@@ -11,7 +11,7 @@ OpenAI just announced o3 and o4-mini today! During the livestream, the team used
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/gif/1.GIF" class="img-fluid rounded z-depth-1 w-100" style="max-width: 300px;" zoomable=true %}
+        {% include figure.liquid path="assets/img/gif/1.GIF" class="img-fluid rounded z-depth-1 w-100" style="max-width: 200px;" zoomable=true %}
     </div>
 </div>
 
