@@ -1,7 +1,7 @@
 ---
 layout: null #cv
 permalink: /cv/
-redirect_to: /assets/pdf/cv.pdf
+redirect_to: /assets/pdf/Resume_Jieming-Li.pdf
 # title: cv
 # nav: true
 # nav_order: 5
