@@ -620,7 +620,7 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume
-    json: assets/json/resume.json # it can also be an url
+    json: https://jiemingli.com/assets/pdf/Resume_Jieming-Li.pdf # it can also be an url
 
 jsonresume:
   - basics

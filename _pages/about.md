@@ -25,9 +25,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Email:
+jli93@gsu.edu
+
 ### About Me
 
-I am a PhD student in the [Department of Computer Science](https://csds.gsu.edu/) at [Georgia State University](https://www.gsu.edu/), working with Professors [Zhipeng Cai](https://cai.csgsu.org/) and [Yili Jiang](https://canlabgo.github.io/). I earned my Bachelor of Science in Computer Science, with a minor in Mathematics, from the [University of Minnesota - Twin Cities](https://twin-cities.umn.edu/) in 2024.
+I am a first year PhD student in the [Department of Computer Science](https://csds.gsu.edu/) at [Georgia State University](https://www.gsu.edu/), working with Professors [Yili Jiang](https://canlabgo.github.io/) and [Zhipeng Cai](https://cai.csgsu.org/). I earned my Bachelor of Science in Computer Science, with a minor in Mathematics, from the [University of Minnesota - Twin Cities](https://twin-cities.umn.edu/) in 2024.
+
+My research interest lies in Explainable Artificial Intelligence(XAI).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
