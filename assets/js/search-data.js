@@ -45,8 +45,8 @@ ninja.data = [{
           window.location.href = "/blog/2025/know-them-flowers/";
         
       },
-    },{id: "news-graduated-with-high-distinction-and-one-semester-early-rocket",
-          title: 'Graduated with high distinction and one semester early :rocket:',
+    },{id: "news-graduated-college-with-high-distinction",
+          title: 'Graduated college with high distinction.',
           description: "",
           section: "News",},{id: "news-offered-a-fully-funded-phd-position-in-computer-science-at-gsu",
           title: 'Offered a fully funded PhD position in Computer Science at GSU.',
@@ -59,7 +59,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%69%6D%6D%79%6C%69%37%30%39%39@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%6A%6C%69%39%33@%67%73%75.%65%64%75", "_blank");
         },
       },{
         id: 'social-linkedin',
