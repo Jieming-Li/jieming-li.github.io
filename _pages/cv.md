@@ -1,5 +1,5 @@
 ---
-layout: null #cv
+layout: cv
 permalink: /cv/
 redirect_to: /assets/pdf/Resume_Jieming-Li.pdf
 # title: cv
