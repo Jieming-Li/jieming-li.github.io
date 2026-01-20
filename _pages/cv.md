@@ -10,4 +10,12 @@ nav_order: 5
 #   sidebar: left
 ---
 
-<iframe src="https://docs.google.com/document/d/1pP_uQ5mFprg0zq3-J6ZYgTDOhZfN13lfSyfjG7wIqNY/edit?usp=sharing" width="100%" height="1200" allow="autoplay"></iframe>
+<!-- <iframe src="https://docs.google.com/document/d/1pP_uQ5mFprg0zq3-J6ZYgTDOhZfN13lfSyfjG7wIqNY/edit?usp=sharing" width="100%" height="1200" allow="autoplay"></iframe> -->
+
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function() {
+    window.open("https://docs.google.com/document/d/1pP_uQ5mFprg0zq3-J6ZYgTDOhZfN13lfSyfjG7wIqNY/edit?usp=sharing", "_blank");
+  });
+</script>
+
+<p>If the CV didn’t open automatically, <a href="https://docs.google.com/document/d/1pP_uQ5mFprg0zq3-J6ZYgTDOhZfN13lfSyfjG7wIqNY/edit?usp=sharing" target="_blank" class="button">Open CV</a></p>
