@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: cv
 # nav: true
@@ -9,3 +9,5 @@ title: cv
 # toc:
 #   sidebar: left
 ---
+
+<iframe src="https://docs.google.com/document/d/1pP_uQ5mFprg0zq3-J6ZYgTDOhZfN13lfSyfjG7wIqNY/edit?usp=sharing" width="800" height="1000" allow="autoplay"></iframe>
