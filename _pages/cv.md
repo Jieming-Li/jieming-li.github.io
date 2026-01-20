@@ -1,8 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-redirect_to: /assets/pdf/Resume_Jieming-Li.pdf
-# title: cv
+title: cv
 # nav: true
 # nav_order: 5
 # cv_pdf: Resume_Jieming-Li.pdf # you can also use external links here
